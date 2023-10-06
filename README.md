@@ -17,4 +17,16 @@ Ensuite il faut éteindre l'ordinateur afin d'accéder au BIOS. Pour y accéder,
 Ensuite lorsque cela est fait, on vous demande d'installer XUbuntu. Faites-le puis attendez. Et voilà, Le système est configuré sur l'ordinateur !
 
 **VM Virtual box**
+L'avantage du virtual boot lui est de pouvoir faire fonctionner plusieurs système d'exploitation.
+Pour faire la Virtual Box, nous  auront aussi besoin de IOS Ubuntu ou XUbuntu. Il faut télécharger le fichier. Il faudra aussi télécharger la VM virtual box
+Lorsque cela est fait, il faut ensuite ouvrir la VM. Nous allons créer la machine virtuelle et la configurer, c'est à dire gérer la place que prendra la machine eter t répartir la place en fonction de la RAM et de la taille du disque dur. Tout d'abord, il faut cliquer sur Nouvelle dans la barre d'icône, puis il faut ensuite ajouter l'IOS en parcourant les dossiers et trouver le fichier. Ensuite il faut répartir la place que va prendre la machine sur le système. 
+Ensuite, il va falloir choisir la langue ainsi que choisir si l'on veut télécharger Ubuntu/XUbuntu ou alors l'essayer. Il faudra le télécharger. Le chargement risque peut-être d'être long. 
 
+**Installations**
+Nous allons voir quels sont les différente commande pour installer Dockers, Python et VScode.
+Dockers : sudo apt install docker
+VScode : sudo  install --classic code
+Python : sudo apt update 
+         sudo apt install python3
+
+Voilà pour l'installation et la configuration du système Ubuntu ou XUbuntu
