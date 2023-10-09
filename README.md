@@ -24,9 +24,9 @@ Ensuite, il va falloir choisir la langue ainsi que choisir si l'on veut téléch
 
 **Installations**
 Nous allons voir quels sont les différente commande pour installer Dockers, Python et VScode.
-Dockers : sudo apt install docker
-VScode : sudo  install --classic code
-Python : sudo apt update 
-         sudo apt install python3
+- Dockers : sudo apt install docker
+- VScode : sudo  install --classic code
+- Python : sudo apt update 
+        - sudo apt install python3
 
 Voilà pour l'installation et la configuration du système Ubuntu ou XUbuntu
